@@ -1,7 +1,9 @@
 .hidden {
   display: none;
 }
-
+form {
+  gap: 24px;
+}
 body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
